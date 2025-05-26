@@ -1,0 +1,2 @@
+Total Required Candies: 4
+Candy Distribution: [1, 2, 1]
